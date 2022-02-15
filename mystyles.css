@@ -1,0 +1,136 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background:  #1abc9c;
+    color: #7070cc;
+    font-size: 30px;
+    background-image: url(../website/images/header.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: 0px;
+    
+    
+ 
+}
+
+
+
+
+    
+
+
+
+body {
+    font-size: 25px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    background-image: url(..//website/images/bodyback.webp);
+    
+    
+}
+
+h2 {
+    font-family:'Bad Script';
+    text-align: left;
+    margin-left: 4em;
+}
+
+.content {
+    background-color: bisque;
+
+    height: 100%;
+    width: 100;
+    
+}
+
+    
+
+
+.profile {
+    display: block;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding-top: 5rem;
+    
+    
+}
+
+.hobby_img {
+    display: inline-block;
+    margin-left: 15em;
+    margin-right: auto;
+    
+}
+
+.p-description {
+    display: block;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Bad Script';
+    margin-bottom: 0px;
+
+
+}
+
+.home_descript {
+    font-family: 'Bad Script';
+    font-size: 2em;
+}
+
+.home_port {
+    text-align: center;
+
+}
+
+.home_descript {
+    text-align: center;
+}
+
+.top-container {
+   background-color: white;
+   width: auto;
+   margin-bottom: 0;
+   margin-top: 0;
+   padding-top: 1vw;
+   padding-bottom: 0;
+   background-image: url(..//website/images/petals.gif);
+}
+
+.captions{
+    margin-bottom: 0px;
+    text-align: center;
+    position: relative;
+    bottom: 7em;
+    font-family: 'Bad Script';
+    font-size: 1em;
+    
+}
+
+
+.mid-container {
+    background-image: url(..//website/images/petals.gif);
+    width: auto;
+    margin-bottom: 1vw;
+    margin-top: 0;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+
+
+}
+img.top-2 {
+    margin: 10rem;
+    position: relative;
+   left: auto;
+   right: auto;
+}
+
+
+img.bot-2 {
+    margin: 10rem;
+    left: auto;
+    right: auto;
+}
